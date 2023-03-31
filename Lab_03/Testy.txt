@@ -1,0 +1,54 @@
+go 5
+ld qwert
+link=a link=abc
+eod
+show
+reverse
+remi 0
+show
+reverse
+ha
+
+-----------------
+go 5
+ld qwert
+link=a link=b
+link=c link=d
+link=e link=f
+link=g link=h
+link=i
+eod
+show
+remeven
+show
+remeven
+show
+remeven
+show
+reverse
+remeven
+show
+ha
+
+-----------------
+go 5
+ld qwert
+link=a link=b
+link=c link=d
+link=e
+eod
+show
+reverse
+remeven
+show
+reverse
+remeven
+show
+reverse
+remeven
+show
+reverse
+remeven
+show
+reverse
+ha
