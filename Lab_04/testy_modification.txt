@@ -1,0 +1,40 @@
+go 5
+ld zero
+link=a link=a link=b link=b link=b
+link=c link=d link=d link=d
+eod
+cd
+ha
+
+---------------------------
+go 5
+ld zero
+link=a
+eod
+cd
+ha
+
+----------------------------
+go 5
+ld zero
+link=a link=b link=b link=b
+link=c
+eod
+cd
+ha
+
+-------------------------
+go 5
+ld zero
+eod
+cd
+ha
+
+---------------------------
+go 5
+ld zero
+link=a link=a link=a link=a
+link=a
+eod
+cd
+ha
