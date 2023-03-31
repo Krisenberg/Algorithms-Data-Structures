@@ -1,0 +1,58 @@
+show
+ld first
+link=g(10)
+eod
+add e(11)
+show
+add k(12)
+add a(10)
+add f(10)
+add i(10)
+add n(10)
+show
+preorder
+postorder
+rem q
+rem g
+show
+preorder
+postorder
+size
+ha
+
+-----------------------------
+show
+ld first
+link=g(10)
+eod
+show
+preorder
+postorder
+size
+rem q
+rem g
+show
+preorder
+postorder
+size
+ha
+
+----------------------------
+show
+ld first
+link=g(10)
+eod
+add d
+add b
+add a
+add e
+add c
+add f
+add h
+add i
+add j
+show
+full
+ha
+
+------------------
