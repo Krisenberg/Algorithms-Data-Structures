@@ -1,0 +1,43 @@
+go 10
+ld doc1
+link=c(10) and link=b(7)
+write also link=z end finish link=a(20)
+eod
+add f(8)
+add g(4)
+add e(3)
+show
+bubblesort
+insertsort
+selectsort
+ha
+
+-------------------------------
+go 10
+ld doc1
+link=c(1) and link=b(3)
+write also link=z end finish link=a(5)
+eod
+add f(7)
+add g(9)
+add e(20)
+show
+bubblesort
+bubblesortupgraded
+ha
+
+-------------------------
+go 10
+ld doc1
+link=c(1) and link=b(3)
+write also link=z end finish link=a(5)
+eod
+add f(9)
+add g(20)
+add e(7)
+show
+bubblesort
+bubblesortupgraded
+ha
+
+------------------------
