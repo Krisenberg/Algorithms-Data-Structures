@@ -1,0 +1,72 @@
+go 10
+ld doc1
+link=c(10) and link=b(7)
+write also link=z end finish link=a(20)
+eod
+add f(8)
+add g(4)
+add e(3)
+show
+mergesort
+ha
+
+---------------------------
+go 10
+ld doc1
+link=a(2) and link=b(7)
+write also link=c(12) end finish link=d(4)
+eod
+add e(1)
+add f(10)
+add g(9)
+add h(5)
+add i(3)
+add j(6)
+show
+mergesort
+ha
+
+----------------------------
+go 10
+ld doc1
+link=a(13) and link=b(5)
+write also link=c(10) end finish link=d(8)
+eod
+add e(6)
+add f(22)
+add g(11)
+add h(3)
+add i(12)
+add j(20)
+add k(7)
+add l(9)
+add m(14)
+add n(17)
+add o(19)
+add p(1)
+add r(2)
+add s(18)
+show
+mergesort
+mergesortsecond
+radixsort
+radixsortmodified
+ha
+
+-----------------------------
+go 10
+ld doc1
+link=c(10) and link=b(7)
+write also link=z end finish link=a(20)
+eod
+add f(8)
+add g(4)
+add e(3)
+show
+mergesort
+mergesortsecond
+radixsort
+radixsortmodified
+ha
+
+----------------------------
