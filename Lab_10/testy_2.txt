@@ -1,0 +1,20 @@
+ld a
+link=b
+eod
+ld b
+eod
+bfs a
+bfs b
+dfs a
+dfs b
+getdoc a
+size
+rem b
+bfs a
+bfs b
+dfs a
+dfs b
+size
+ha
+
+-----
